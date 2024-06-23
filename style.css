@@ -6,7 +6,7 @@ body{
 }
 .container{
     display: flex;
-    background: url("../233115CV/wp_cv.jpeg");
+    background: url("wp_cv.jpeg");
     width: 1500px;
     height: 8550px;
     flex-direction: column;
